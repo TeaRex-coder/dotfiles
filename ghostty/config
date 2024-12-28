@@ -1,0 +1,14 @@
+config-file = ./keybinds
+
+title = " "
+macos-titlebar-style = hidden
+background-opacity = 0.95
+background-blur-radius = 15
+theme = nord
+font-family = "Comic Mono"
+font-size = 13
+
+clipboard-trim-trailing-spaces = true
+clipboard-paste-protection = true
+
+quit-after-last-window-closed = true
